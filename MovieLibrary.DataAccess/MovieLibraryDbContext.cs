@@ -4,13 +4,8 @@ using MovieLibrary.DataAccess.Entities;
 
 namespace MovieLibrary.DataAccess;
 
-public class MovieLibraryDbContext: DbContext
+public class MovieLibraryDbContext(DbContextOptions<MovieLibraryDbContext> options) : DbContext(options)
 {
-    public MovieLibraryDbContext(DbContextOptions<MovieLibraryDbContext> options)
-        : base(options)
-    {
-        
-    }
-    
     public DbSet<MovieEntity> Movies { get; set; }
+    public DbSet<UserEntity> Users { get; set; }
 }
