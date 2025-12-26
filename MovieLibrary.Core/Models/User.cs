@@ -10,6 +10,8 @@ public class User
         Email = email;
         RegistrationDate = registrationDate;
     }
+
+    public List<Review> Reviews { get; set; } = new();
     public Guid Id { get; private set; }
     public string Username { get; private set; }
     public string Email { get; private set; } 

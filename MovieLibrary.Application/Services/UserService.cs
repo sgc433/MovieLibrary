@@ -12,9 +12,22 @@ public class UserService(IUserRepository userRepository)
         return user;
     }
 
+    public async Task<User> GetByUserName(string userName)
+    {
+        var user = await userRepository.GetByName(userName);
+        return user;
+    }
+
+    public async Task<List<User>> GetAllUsers()
+    {
+        var users = await userRepository.GetAll();
+        return users;
+    }
+
     public async Task CreateUser(User user)
     {
         await userRepository.Create(user);
     }
+    
 }
 

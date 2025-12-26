@@ -28,6 +28,7 @@ public class Movie
     public string Description { get; } = string.Empty;
     public string Author { get; } = string.Empty;
     public GenreEnum Genre { get;  }
+    public List<Review> Reviews { get; } = new();
     public TimeSpan Duration { get;  }
     [MinLength(0)]
     [MaxLength(MAX_TITLE_LENGTH)]

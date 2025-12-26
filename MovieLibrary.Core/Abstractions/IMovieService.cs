@@ -9,4 +9,5 @@ public interface IMovieService
     Task<List<Movie>> GetAllMovies();
     Task<Guid> Delete(Guid id);
     Task<Guid> Create(Movie movie);
+    Task<Movie> GetMovieByName(string name);
 }

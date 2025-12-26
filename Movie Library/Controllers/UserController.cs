@@ -38,8 +38,16 @@ public class UserController : Controller
         var token = await _authService.Login(request.Email,request.Password);
         return Ok(token);
     }
+
+    [HttpGet("getallusers")]
+    public async Task<IActionResult> GetAllUsers()
+    {
+        var users = await _userService.GetAllUsers();
+        return Ok(users);
+    }
+    
     [HttpPost("create")]
-    public async Task<IActionResult> CreateUser(User user)
+    private async Task<IActionResult> CreateUser(User user)
     {
         await  _userService.CreateUser(user);
         return Ok();

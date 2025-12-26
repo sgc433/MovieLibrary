@@ -1,4 +1,6 @@
-﻿namespace MovieLibrary.DataAccess.Entities;
+﻿using MovieLibrary.Core.Models;
+
+namespace MovieLibrary.DataAccess.Entities;
 
 public class UserEntity
 {
@@ -7,4 +9,5 @@ public class UserEntity
     public string Email { get; set; } 
     public DateTime RegistrationDate { get; set; }
     public string PasswordHash { get; set; }
+    public List<ReviewEntity> Reviews { get; set; } = new();
 }

@@ -36,4 +36,10 @@ public class MovieService: IMovieService
         await _repository.Create(movie);
         return movie.Id;
     }
+
+    public async Task<Movie> GetMovieByName(string name)
+    {
+        var movie = await _repository.GetByName(name);
+        return movie;
+    }
 }

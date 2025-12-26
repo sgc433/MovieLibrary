@@ -68,4 +68,25 @@ public class MovieRepository: IMovieRepository
         return id;
         
     }
+
+    public async Task<Movie> GetByName(string name)
+    {
+        var movieEntity = await _context.Movies
+            .AsNoTracking()
+            .FirstOrDefaultAsync(m => m.Title == name);
+        if (movieEntity is null)
+        {
+            throw new Exception($"Movie with name {name} not found");
+        }
+        var movie = Movie.Create(
+            movieEntity.Id,
+            movieEntity.Title,
+            movieEntity.Description,
+            movieEntity.ReleaseDate,
+            movieEntity.Author,
+            movieEntity.Genre,
+            movieEntity.Duration,
+            movieEntity.Rating);
+        return movie;
+    }
 }

@@ -8,4 +8,5 @@ public class MovieLibraryDbContext(DbContextOptions<MovieLibraryDbContext> optio
 {
     public DbSet<MovieEntity> Movies { get; set; }
     public DbSet<UserEntity> Users { get; set; }
+    public DbSet<ReviewEntity> Reviews { get; set; }
 }

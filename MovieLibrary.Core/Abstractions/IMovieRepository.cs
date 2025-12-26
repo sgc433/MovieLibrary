@@ -8,5 +8,14 @@ public interface IMovieRepository
     Task<Guid> Create(Movie movie);
     Task<Guid> Delete(Guid id);
     Task<List<Movie>> Get();
-    Task<Guid> Update(Guid id, string title, string description, DateTime releaseDate, string author, GenreEnum genre, TimeSpan duration, decimal rating);
+    Task<Guid> Update(
+        Guid id,
+        string title,
+        string description,
+        DateTime releaseDate,
+        string author,
+        GenreEnum genre,
+        TimeSpan duration,
+        decimal rating);
+    Task<Movie> GetByName(string name);
 }
