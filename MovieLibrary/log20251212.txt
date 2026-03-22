@@ -1,0 +1,402 @@
+2025-12-12 11:36:19.335 +03:00 [INF] User profile is available. Using 'C:\Users\79200\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-12 11:36:19.679 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 11:36:19.688 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 11:36:19.690 +03:00 [INF] Hosting environment: Development
+2025-12-12 11:36:19.693 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 11:36:20.114 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 11:36:20.356 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 245.5157ms
+2025-12-12 11:36:20.398 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 11:41:27.568 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 11:41:27.745 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 177.7162ms
+2025-12-12 11:41:55.558 +03:00 [INF] Application is shutting down...
+2025-12-12 12:56:59.576 +03:00 [INF] User profile is available. Using 'C:\Users\79200\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-12 12:56:59.829 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 12:56:59.837 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 12:56:59.840 +03:00 [INF] Hosting environment: Development
+2025-12-12 12:56:59.842 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 12:57:00.040 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 12:57:00.180 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 115.3342ms
+2025-12-12 12:57:00.204 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 12:57:12.663 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 12:57:12.808 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 145.1712ms
+2025-12-12 12:57:44.841 +03:00 [INF] Application is shutting down...
+2025-12-12 12:58:32.969 +03:00 [INF] User profile is available. Using 'C:\Users\79200\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-12 12:58:33.246 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 12:58:33.254 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 12:58:33.258 +03:00 [INF] Hosting environment: Development
+2025-12-12 12:58:33.260 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 12:58:33.488 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 12:58:33.600 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 115.7993ms
+2025-12-12 12:58:33.637 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 12:58:39.531 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 12:58:39.698 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 168.3195ms
+2025-12-12 12:58:40.668 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 12:58:40.681 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 12.9342ms
+2025-12-12 12:58:40.820 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/favicon.ico - null null
+2025-12-12 12:58:40.824 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/favicon.ico - 404 0 null 3.6185ms
+2025-12-12 12:58:40.827 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/favicon.ico, Response status code: 404
+2025-12-12 12:58:47.431 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/ - null null
+2025-12-12 12:58:47.435 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/ - 301 0 null 3.5071ms
+2025-12-12 12:58:47.560 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 12:58:47.568 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 7.8452ms
+2025-12-12 12:59:58.637 +03:00 [INF] Application is shutting down...
+2025-12-12 13:00:14.480 +03:00 [INF] User profile is available. Using 'C:\Users\79200\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-12-12 13:00:14.707 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:00:14.713 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:00:14.719 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:00:14.721 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:00:15.015 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:00:15.097 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 84.0389ms
+2025-12-12 13:00:15.117 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:00:18.280 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:00:18.404 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/User" for actions - Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), Movie_Library.Controllers.UserController.Login (Movie Library). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-12 13:00:18.413 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 133.0782ms
+2025-12-12 13:00:58.862 +03:00 [INF] Application is shutting down...
+2025-12-12 13:07:49.219 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:07:49.283 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:07:49.286 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:07:49.287 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:07:49.842 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:07:49.910 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 72.093ms
+2025-12-12 13:07:49.935 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:07:53.507 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:07:53.626 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/User" for actions - Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), Movie_Library.Controllers.UserController.Login (Movie Library). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-12 13:07:53.634 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 127.9047ms
+2025-12-12 13:07:56.393 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:07:56.417 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/User" for actions - Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), Movie_Library.Controllers.UserController.Login (Movie Library). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-12 13:07:56.424 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 500 null text/plain; charset=utf-8 30.7685ms
+2025-12-12 13:08:22.114 +03:00 [INF] Application is shutting down...
+2025-12-12 13:14:39.689 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:14:39.747 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:14:39.749 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:14:39.749 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:14:40.138 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:14:40.191 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 54.8736ms
+2025-12-12 13:14:40.213 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:14:42.677 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:14:42.809 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 132.2222ms
+2025-12-12 13:14:58.142 +03:00 [INF] Application is shutting down...
+2025-12-12 13:15:20.837 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:15:20.899 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:15:20.901 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:15:20.902 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:15:21.361 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:15:21.412 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 53.5481ms
+2025-12-12 13:15:21.430 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:15:24.614 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:15:24.745 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 131.5599ms
+2025-12-12 13:15:47.571 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/api/User/register - application/json 65
+2025-12-12 13:15:47.579 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 13:15:47.603 +03:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(Movie_Library.Contracts.User.RegisterUserRequest) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 13:15:47.935 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.Register (Movie Library) - Validation state: "Valid"
+2025-12-12 13:15:49.670 +03:00 [ERR] Failed executing DbCommand (89ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = DateTime), @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "Email", "PasswordHash", "RegistrationDate", "Username")
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2025-12-12 13:15:49.734 +03:00 [ERR] An exception occurred in the database while saving changes for context type 'MovieLibrary.DataAccess.MovieLibraryDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42P01: отношение "Users" не существует
+
+POSITION: 13
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42P01
+    MessageText: отношение "Users" не существует
+    Position: 13
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42P01: отношение "Users" не существует
+
+POSITION: 13
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42P01
+    MessageText: отношение "Users" не существует
+    Position: 13
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-12-12 13:15:49.760 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.Register (Movie Library) in 2149.591ms
+2025-12-12 13:15:49.763 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 13:15:49.814 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 42P01: отношение "Users" не существует
+
+POSITION: 13
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 42P01
+    MessageText: отношение "Users" не существует
+    Position: 13
+    File: parse_relation.c
+    Line: 1452
+    Routine: parserOpenTable
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at MovieLibrary.DataAccess.Repositories.UserRepository.Create(User user) in Y:\Просто скрипты\Movie Library\MovieLibrary.DataAccess\Repositories\UserRepository.cs:line 29
+   at MovieLibrary.Application.Services.AuthService.Register(String username, String email, String password) in Y:\Просто скрипты\Movie Library\MovieLibrary.Application\Services\AuthService.cs:line 16
+   at Movie_Library.Controllers.UserController.Register(RegisterUserRequest request) in Y:\Просто скрипты\Movie Library\Movie Library\Controllers\UserController.cs:line 31
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-12 13:15:49.849 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/api/User/register - 500 null text/plain; charset=utf-8 2277.4463ms
+2025-12-12 13:18:29.941 +03:00 [INF] Application is shutting down...
+2025-12-12 13:35:09.255 +03:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-12-12 13:35:09.502 +03:00 [INF] Executed DbCommand (35ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" character varying(150) NOT NULL,
+    "ProductVersion" character varying(32) NOT NULL,
+    CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY ("MigrationId")
+);
+2025-12-12 13:35:09.509 +03:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2025-12-12 13:35:09.510 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+LOCK TABLE "__EFMigrationsHistory" IN ACCESS EXCLUSIVE MODE
+2025-12-12 13:35:09.511 +03:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2025-12-12 13:35:09.517 +03:00 [INF] Applying migration '20251212103450_AddUser'.
+2025-12-12 13:35:09.616 +03:00 [INF] Executed DbCommand (94ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Users" (
+    "Id" uuid NOT NULL,
+    "Username" text NOT NULL,
+    "Email" text NOT NULL,
+    "RegistrationDate" timestamp with time zone NOT NULL,
+    "PasswordHash" text NOT NULL,
+    CONSTRAINT "PK_Users" PRIMARY KEY ("Id")
+);
+2025-12-12 13:35:09.617 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20251212103450_AddUser', '9.0.11');
+2025-12-12 13:36:15.319 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:36:15.404 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:36:15.407 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:36:15.410 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:36:15.975 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:36:16.109 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 139.0857ms
+2025-12-12 13:36:16.172 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:36:18.872 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:36:19.081 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 210.0516ms
+2025-12-12 13:36:55.218 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/api/User/register - application/json 65
+2025-12-12 13:36:55.227 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 13:36:55.254 +03:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(Movie_Library.Contracts.User.RegisterUserRequest) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 13:36:55.451 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.Register (Movie Library) - Validation state: "Valid"
+2025-12-12 13:36:56.924 +03:00 [INF] Executed DbCommand (99ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = DateTime), @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "Email", "PasswordHash", "RegistrationDate", "Username")
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2025-12-12 13:36:56.986 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.Register (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkResult in 1523.319ms.
+2025-12-12 13:36:57.004 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2025-12-12 13:36:57.015 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.Register (Movie Library) in 1750.4581ms
+2025-12-12 13:36:57.019 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 13:36:57.038 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/api/User/register - 200 0 null 1819.9822ms
+2025-12-12 13:38:11.802 +03:00 [INF] Application is shutting down...
+2025-12-12 13:38:25.349 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 13:38:25.416 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 13:38:25.418 +03:00 [INF] Hosting environment: Development
+2025-12-12 13:38:25.419 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 13:38:25.620 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 13:38:25.679 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 62.6278ms
+2025-12-12 13:38:25.707 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 13:38:28.297 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 13:38:28.434 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 137.7473ms
+2025-12-12 13:38:39.780 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/api/User/login - application/json 105
+2025-12-12 13:38:39.788 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.Login (Movie Library)'
+2025-12-12 13:38:39.809 +03:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Microsoft.AspNetCore.Identity.Data.LoginRequest) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 13:38:40.037 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.Login (Movie Library) - Validation state: "Valid"
+2025-12-12 13:38:41.196 +03:00 [INF] Executed DbCommand (72ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2025-12-12 13:38:41.708 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.Login (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1663.0737ms.
+2025-12-12 13:38:41.724 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-12-12 13:38:41.732 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.Login (Movie Library) in 1915.6425ms
+2025-12-12 13:38:41.735 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.Login (Movie Library)'
+2025-12-12 13:38:41.752 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/api/User/login - 200 null text/plain; charset=utf-8 1972.0617ms
+2025-12-12 13:41:57.013 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=a - null null
+2025-12-12 13:41:57.021 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 13:41:57.029 +03:00 [INF] Route matched with {action = "GetUserByEmail", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUserByEmail(System.String) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 13:41:57.043 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) - Validation state: "Valid"
+2025-12-12 13:41:57.089 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2025-12-12 13:41:57.093 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 46.2992ms.
+2025-12-12 13:41:57.096 +03:00 [INF] Executing OkObjectResult, writing value of type 'MovieLibrary.Core.Models.User'.
+2025-12-12 13:41:57.120 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) in 86.5596ms
+2025-12-12 13:41:57.122 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 13:41:57.125 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=a - 200 null application/json; charset=utf-8 112.1886ms
+2025-12-12 13:42:21.124 +03:00 [INF] Application is shutting down...
+2025-12-12 14:01:37.011 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-12 14:01:37.085 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-12 14:01:37.090 +03:00 [INF] Hosting environment: Development
+2025-12-12 14:01:37.092 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-12 14:01:37.415 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-12 14:01:37.471 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 58.5192ms
+2025-12-12 14:01:37.493 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-12 14:01:47.098 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-12 14:01:47.230 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 132.0124ms
+2025-12-12 14:01:58.678 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=a - null null
+2025-12-12 14:01:58.685 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 14:01:58.707 +03:00 [INF] Route matched with {action = "GetUserByEmail", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUserByEmail(System.String) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 14:01:58.870 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) - Validation state: "Valid"
+2025-12-12 14:02:00.031 +03:00 [INF] Executed DbCommand (74ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2025-12-12 14:02:00.151 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1274.5743ms.
+2025-12-12 14:02:00.167 +03:00 [INF] Executing OkObjectResult, writing value of type 'Movie_Library.Contracts.User.UserResponse'.
+2025-12-12 14:02:00.232 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) in 1516.8127ms
+2025-12-12 14:02:00.236 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 14:02:00.250 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=a - 200 null application/json; charset=utf-8 1572.1322ms
+2025-12-12 14:03:04.746 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/api/User/register - application/json 68
+2025-12-12 14:03:04.751 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 14:03:04.758 +03:00 [INF] Route matched with {action = "Register", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(Movie_Library.Contracts.User.RegisterUserRequest) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 14:03:04.788 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.Register (Movie Library) - Validation state: "Valid"
+2025-12-12 14:03:05.206 +03:00 [INF] Executed DbCommand (8ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = DateTime), @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Users" ("Id", "Email", "PasswordHash", "RegistrationDate", "Username")
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2025-12-12 14:03:05.219 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.Register (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkResult in 428.4973ms.
+2025-12-12 14:03:05.224 +03:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2025-12-12 14:03:05.226 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.Register (Movie Library) in 464.9119ms
+2025-12-12 14:03:05.227 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.Register (Movie Library)'
+2025-12-12 14:03:05.228 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/api/User/register - 200 0 null 481.7079ms
+2025-12-12 14:03:32.376 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/api/User/login - application/json 45
+2025-12-12 14:03:32.379 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.Login (Movie Library)'
+2025-12-12 14:03:32.384 +03:00 [INF] Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(Movie_Library.Contracts.User.LoginUserRequest) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 14:03:32.393 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.Login (Movie Library) - Validation state: "Valid"
+2025-12-12 14:03:32.450 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2025-12-12 14:03:32.618 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.Login (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 222.8549ms.
+2025-12-12 14:03:32.620 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-12-12 14:03:32.622 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.Login (Movie Library) in 234.8784ms
+2025-12-12 14:03:32.624 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.Login (Movie Library)'
+2025-12-12 14:03:32.625 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/api/User/login - 200 null text/plain; charset=utf-8 249.8742ms
+2025-12-12 14:03:45.618 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=debil228 - null null
+2025-12-12 14:03:45.621 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 14:03:45.623 +03:00 [INF] Route matched with {action = "GetUserByEmail", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetUserByEmail(System.String) on controller Movie_Library.Controllers.UserController (Movie Library).
+2025-12-12 14:03:45.627 +03:00 [INF] Executing action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) - Validation state: "Valid"
+2025-12-12 14:03:45.630 +03:00 [INF] Executed DbCommand (1ms) [Parameters=[@__email_0='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username"
+FROM "Users" AS u
+WHERE u."Email" = @__email_0
+LIMIT 1
+2025-12-12 14:03:45.633 +03:00 [INF] Executed action method Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4.4655ms.
+2025-12-12 14:03:45.636 +03:00 [INF] Executing OkObjectResult, writing value of type 'Movie_Library.Contracts.User.UserResponse'.
+2025-12-12 14:03:45.637 +03:00 [INF] Executed action Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library) in 11.4469ms
+2025-12-12 14:03:45.639 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.UserController.GetUserByEmail (Movie Library)'
+2025-12-12 14:03:45.642 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/api/User/getuser?email=debil228 - 200 null application/json; charset=utf-8 24.4931ms
+2025-12-12 14:04:07.496 +03:00 [INF] Application is shutting down...

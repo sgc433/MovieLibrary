@@ -1,0 +1,30 @@
+2025-12-11 19:43:24.329 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-11 19:43:24.402 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-11 19:43:24.405 +03:00 [INF] Hosting environment: Development
+2025-12-11 19:43:24.406 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-11 19:43:24.922 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-11 19:43:24.973 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 53.441ms
+2025-12-11 19:43:24.994 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-11 19:43:29.171 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-11 19:43:29.299 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 128.9879ms
+2025-12-11 19:43:30.623 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/api/movie - null null
+2025-12-11 19:43:30.630 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.MovieController.GetMovies (Movie Library)'
+2025-12-11 19:43:30.648 +03:00 [INF] Route matched with {action = "GetMovies", controller = "Movie"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MovieLibrary.Core.Models.Movie]]] GetMovies() on controller Movie_Library.Controllers.MovieController (Movie Library).
+2025-12-11 19:43:30.788 +03:00 [INF] Executing action method Movie_Library.Controllers.MovieController.GetMovies (Movie Library) - Validation state: "Valid"
+2025-12-11 19:43:31.839 +03:00 [INF] Executed DbCommand (26ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT m."Id", m."Author", m."Description", m."Duration", m."Genre", m."Rating", m."ReleaseDate", m."Title"
+FROM "Movies" AS m
+2025-12-11 19:43:31.876 +03:00 [INF] Executed action method Movie_Library.Controllers.MovieController.GetMovies (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1079.4186ms.
+2025-12-11 19:43:31.894 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MovieLibrary.Core.Models.Movie, MovieLibrary.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-11 19:43:31.953 +03:00 [INF] Executed action Movie_Library.Controllers.MovieController.GetMovies (Movie Library) in 1297.2101ms
+2025-12-11 19:43:31.957 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.MovieController.GetMovies (Movie Library)'
+2025-12-11 19:43:31.973 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/api/movie - 200 null application/json; charset=utf-8 1349.9106ms
+2025-12-11 19:43:52.908 +03:00 [INF] Application is shutting down...
+2025-12-11 19:43:57.826 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-11 19:43:57.911 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-11 19:43:57.915 +03:00 [INF] Hosting environment: Development
+2025-12-11 19:43:57.920 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-11 19:43:57.967 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-11 19:43:58.021 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 55.6264ms
+2025-12-11 19:43:58.038 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-11 19:44:02.183 +03:00 [INF] Application is shutting down...

@@ -1,0 +1,10 @@
+2025-12-16 12:55:49.156 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-16 12:55:49.213 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-16 12:55:49.216 +03:00 [INF] Hosting environment: Development
+2025-12-16 12:55:49.217 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-16 12:55:49.782 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-16 12:55:49.854 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 76.3475ms
+2025-12-16 12:55:49.880 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-16 12:55:55.063 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-16 12:55:55.186 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 123.8958ms
+2025-12-16 12:59:45.203 +03:00 [INF] Application is shutting down...

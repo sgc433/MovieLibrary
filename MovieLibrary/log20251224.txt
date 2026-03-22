@@ -1,0 +1,169 @@
+2025-12-24 16:03:31.639 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-24 16:03:31.704 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-24 16:03:31.706 +03:00 [INF] Hosting environment: Development
+2025-12-24 16:03:31.707 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-24 16:03:32.293 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-24 16:03:32.357 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 66.0103ms
+2025-12-24 16:03:32.381 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-24 16:04:05.741 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/index.html - null null
+2025-12-24 16:04:05.839 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/index.html - 200 null text/html;charset=utf-8 98.3865ms
+2025-12-24 16:04:05.849 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/index.css - null null
+2025-12-24 16:04:05.849 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui.css - null null
+2025-12-24 16:04:05.850 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui-bundle.js - null null
+2025-12-24 16:04:05.866 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/index.css - 304 null null 17.1281ms
+2025-12-24 16:04:05.866 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui.css - 304 null null 16.9982ms
+2025-12-24 16:04:05.868 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui-bundle.js - 304 null null 18.4869ms
+2025-12-24 16:04:05.879 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui-standalone-preset.js - null null
+2025-12-24 16:04:05.882 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/index.js - null null
+2025-12-24 16:04:05.889 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/swagger-ui-standalone-preset.js - 304 null null 10.7748ms
+2025-12-24 16:04:05.892 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/index.js - 200 null application/javascript;charset=utf-8 10.0986ms
+2025-12-24 16:04:06.087 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-24 16:04:06.244 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 157.2184ms
+2025-12-24 16:04:07.050 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/favicon-32x32.png - null null
+2025-12-24 16:04:07.054 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/favicon-32x32.png - 200 628 image/png 4.1775ms
+2025-12-24 16:04:38.506 +03:00 [INF] Application is shutting down...
+2025-12-24 16:05:01.501 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-24 16:05:01.635 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-24 16:05:01.637 +03:00 [INF] Hosting environment: Development
+2025-12-24 16:05:01.639 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-24 16:05:02.109 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-24 16:05:02.170 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 63.758ms
+2025-12-24 16:05:02.191 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-24 16:05:06.391 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-24 16:05:06.520 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 129.3288ms
+2025-12-24 16:05:17.701 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/Review - null null
+2025-12-24 16:05:17.710 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library)'
+2025-12-24 16:05:17.771 +03:00 [INF] Route matched with {action = "GetAllReviews", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MovieLibrary.Core.Models.Review]]] GetAllReviews() on controller Movie_Library.Controllers.ReviewController (Movie Library).
+2025-12-24 16:05:17.782 +03:00 [INF] Executed action Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library) in 2.837ms
+2025-12-24 16:05:17.785 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library)'
+2025-12-24 16:05:17.813 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'MovieLibrary.Core.Abstractions.IReviewService' while attempting to activate 'Movie_Library.Controllers.ReviewController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method11(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-24 16:05:17.822 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/Review - 500 null text/plain; charset=utf-8 120.1762ms
+2025-12-24 16:05:47.892 +03:00 [INF] Application is shutting down...
+2025-12-24 16:10:26.057 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-24 16:10:26.116 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-24 16:10:26.118 +03:00 [INF] Hosting environment: Development
+2025-12-24 16:10:26.119 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-24 16:10:26.603 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-24 16:10:26.652 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 51.8113ms
+2025-12-24 16:10:26.669 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-24 16:10:47.246 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-24 16:10:47.386 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 140.6387ms
+2025-12-24 16:10:53.947 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/Review - null null
+2025-12-24 16:10:53.953 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library)'
+2025-12-24 16:10:53.970 +03:00 [INF] Route matched with {action = "GetAllReviews", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MovieLibrary.Core.Models.Review]]] GetAllReviews() on controller Movie_Library.Controllers.ReviewController (Movie Library).
+2025-12-24 16:10:54.230 +03:00 [INF] Executing action method Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library) - Validation state: "Valid"
+2025-12-24 16:10:55.741 +03:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT r."Id", r."Comment", r."MovieId", r."Rating", r."ReviewDate", r."UserId", u."Id", u."Email", u."PasswordHash", u."RegistrationDate", u."Username", m."Id", m."Author", m."Description", m."Duration", m."Genre", m."Rating", m."ReleaseDate", m."Title"
+FROM "Reviews" AS r
+INNER JOIN "Users" AS u ON r."UserId" = u."Id"
+INNER JOIN "Movies" AS m ON r."MovieId" = m."Id"
+2025-12-24 16:10:55.771 +03:00 [INF] Executed action method Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1534.3966ms.
+2025-12-24 16:10:55.784 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Movie_Library.Contracts.Reviews.ReviewResponse, Movie Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-12-24 16:10:55.858 +03:00 [INF] Executed action Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library) in 1881.2964ms
+2025-12-24 16:10:55.862 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.ReviewController.GetAllReviews (Movie Library)'
+2025-12-24 16:10:55.874 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/Review - 200 null application/json; charset=utf-8 1927.4438ms
+2025-12-24 16:11:14.867 +03:00 [INF] Application is shutting down...
+2025-12-24 16:20:09.209 +03:00 [INF] Now listening on: http://localhost:5281
+2025-12-24 16:20:09.280 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-12-24 16:20:09.282 +03:00 [INF] Hosting environment: Development
+2025-12-24 16:20:09.284 +03:00 [INF] Content root path: Y:\Просто скрипты\Movie Library\Movie Library
+2025-12-24 16:20:09.783 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/ - null null
+2025-12-24 16:20:09.850 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/ - 404 0 null 72.387ms
+2025-12-24 16:20:09.869 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5281/, Response status code: 404
+2025-12-24 16:20:14.703 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - null null
+2025-12-24 16:20:14.946 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5281/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 243.0369ms
+2025-12-24 16:21:30.555 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/Review - application/json 239
+2025-12-24 16:21:30.562 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.ReviewController.CreateReview (Movie Library)'
+2025-12-24 16:21:30.587 +03:00 [INF] Route matched with {action = "CreateReview", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Guid]] CreateReview(MovieLibrary.Core.Models.Review) on controller Movie_Library.Controllers.ReviewController (Movie Library).
+2025-12-24 16:21:30.845 +03:00 [INF] Executed action Movie_Library.Controllers.ReviewController.CreateReview (Movie Library) in 250.9557ms
+2025-12-24 16:21:30.848 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.ReviewController.CreateReview (Movie Library)'
+2025-12-24 16:21:30.874 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'MovieLibrary.Core.Models.Movie'. Path: $.movie | LineNumber: 2 | BytePositionInLine: 12.
+ ---> System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'MovieLibrary.Core.Models.Movie'.
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException(ReadStack& state, Utf8JsonReader& reader, Exception innerException)
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException_DeserializeNoConstructor(JsonTypeInfo typeInfo, Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.TryReadAsObject(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, Object& value)
+   at System.Text.Json.Serialization.Converters.LargeObjectWithParameterizedConstructorConverter`1.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize[TReadBufferState,TStream](TReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync[TReadBufferState,TStream](TStream utf8Json, TReadBufferState bufferState, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-24 16:21:30.890 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/Review - 500 null text/plain; charset=utf-8 334.6569ms
+2025-12-24 16:25:17.931 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:5281/Review - application/json 220
+2025-12-24 16:25:17.945 +03:00 [INF] Executing endpoint 'Movie_Library.Controllers.ReviewController.CreateReview (Movie Library)'
+2025-12-24 16:25:17.948 +03:00 [INF] Route matched with {action = "CreateReview", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Guid]] CreateReview(MovieLibrary.Core.Models.Review) on controller Movie_Library.Controllers.ReviewController (Movie Library).
+2025-12-24 16:25:17.967 +03:00 [INF] Executed action Movie_Library.Controllers.ReviewController.CreateReview (Movie Library) in 13.3322ms
+2025-12-24 16:25:17.969 +03:00 [INF] Executed endpoint 'Movie_Library.Controllers.ReviewController.CreateReview (Movie Library)'
+2025-12-24 16:25:17.974 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'MovieLibrary.Core.Models.Movie'. Path: $.movie | LineNumber: 2 | BytePositionInLine: 12.
+ ---> System.NotSupportedException: Deserialization of types without a parameterless constructor, a singular parameterized constructor, or a parameterized constructor annotated with 'JsonConstructorAttribute' is not supported. Type 'MovieLibrary.Core.Models.Movie'.
+   --- End of inner exception stack trace ---
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException(ReadStack& state, Utf8JsonReader& reader, Exception innerException)
+   at System.Text.Json.ThrowHelper.ThrowNotSupportedException_DeserializeNoConstructor(JsonTypeInfo typeInfo, Utf8JsonReader& reader, ReadStack& state)
+   at System.Text.Json.Serialization.Converters.ObjectDefaultConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.TryReadAsObject(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, Object& value)
+   at System.Text.Json.Serialization.Converters.LargeObjectWithParameterizedConstructorConverter`1.ReadAndCacheConstructorArgument(ReadStack& state, Utf8JsonReader& reader, JsonParameterInfo jsonParameterInfo)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.ReadConstructorArgumentsWithContinuation(ReadStack& state, Utf8JsonReader& reader, JsonSerializerOptions options)
+   at System.Text.Json.Serialization.Converters.ObjectWithParameterizedConstructorConverter`1.OnTryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value)
+   at System.Text.Json.Serialization.JsonConverter`1.TryRead(Utf8JsonReader& reader, Type typeToConvert, JsonSerializerOptions options, ReadStack& state, T& value, Boolean& isPopulatedValue)
+   at System.Text.Json.Serialization.JsonConverter`1.ReadCore(Utf8JsonReader& reader, T& value, JsonSerializerOptions options, ReadStack& state)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.ContinueDeserialize[TReadBufferState,TStream](TReadBufferState& bufferState, JsonReaderState& jsonReaderState, ReadStack& readStack, T& value)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsync[TReadBufferState,TStream](TStream utf8Json, TReadBufferState bufferState, CancellationToken cancellationToken)
+   at System.Text.Json.Serialization.Metadata.JsonTypeInfo`1.DeserializeAsObjectAsync(Stream utf8Json, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter.ReadRequestBodyAsync(InputFormatterContext context, Encoding encoding)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinder.BindModelAsync(ModelBindingContext bindingContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value, Object container)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-12-24 16:25:17.983 +03:00 [INF] Request finished HTTP/1.1 POST http://localhost:5281/Review - 500 null text/plain; charset=utf-8 51.4158ms
+2025-12-24 17:19:08.167 +03:00 [INF] Application is shutting down...
