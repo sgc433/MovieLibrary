@@ -1,0 +1,23 @@
+﻿
+services:
+  movie-library:
+    build:
+      context: ..
+      dockerfile: D:\Просто скрипты\Movie Library\Dockerfile
+    ports:
+      - "8080:8080"
+    container_name: movielibrary
+    depends_on:
+      - db
+  db:
+    image: postgres:latest
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 1308
+    volumes:
+      - db_data:/var/lib/postgresql/18/data
+    container_name: db_postgresql_container
+volumes:
+  db_data:
