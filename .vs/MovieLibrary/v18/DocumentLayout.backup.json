@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary\\contracts\\validators\\movierequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\contracts\\validators\\movierequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary\\contracts\\validators\\reviewrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\contracts\\validators\\reviewrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary\\contracts\\validators\\updatereviewrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47532DC9-0ED0-47FE-9175-6E1327D07593}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\contracts\\validators\\updatereviewrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\abstractions\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\abstractions\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43111A4-0FC2-4AEE-810B-63EC35074651}|MovieLibrary.Application\\MovieLibrary.Application.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43111A4-0FC2-4AEE-810B-63EC35074651}|MovieLibrary.Application\\MovieLibrary.Application.csproj|solutionrelative:movielibrary.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\abstractions\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\abstractions\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43111A4-0FC2-4AEE-810B-63EC35074651}|MovieLibrary.Application\\MovieLibrary.Application.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43111A4-0FC2-4AEE-810B-63EC35074651}|MovieLibrary.Application\\MovieLibrary.Application.csproj|solutionrelative:movielibrary.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\configuration\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\entities\\reviewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\entities\\reviewentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\movielibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\movielibrarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\entities\\movieentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D7A6B84-C2EF-4115-8116-3EB2C453B426}|MovieLibrary.DataAccess\\MovieLibrary.DataAccess.csproj|solutionrelative:movielibrary.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|d:\\\u043F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\movie library\\movielibrary.core\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81173676-D2A5-4F63-98C1-ACC29E12B45F}|MovieLibrary.Core\\MovieLibrary.Core.csproj|solutionrelative:movielibrary.core\\abstractions\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Program.cs",
+              "RelativeToolTip": "MovieLibrary\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:38:16.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateReviewRequestValidator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\UpdateReviewRequestValidator.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Contracts\\Validators\\UpdateReviewRequestValidator.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\UpdateReviewRequestValidator.cs",
+              "RelativeToolTip": "MovieLibrary\\Contracts\\Validators\\UpdateReviewRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:30:47.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewRequestValidator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\ReviewRequestValidator.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Contracts\\Validators\\ReviewRequestValidator.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\ReviewRequestValidator.cs",
+              "RelativeToolTip": "MovieLibrary\\Contracts\\Validators\\ReviewRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:30:46.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieRequestValidator.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\MovieRequestValidator.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Contracts\\Validators\\MovieRequestValidator.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary\\Contracts\\Validators\\MovieRequestValidator.cs",
+              "RelativeToolTip": "MovieLibrary\\Contracts\\Validators\\MovieRequestValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T13:30:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Application\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "MovieLibrary.Application\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:52.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Abstractions\\IReviewRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IReviewRepository.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Abstractions\\IReviewRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:44.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "MovieLibrary.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:12.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IReviewService.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Abstractions\\IReviewService.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IReviewService.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Abstractions\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:01.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwG8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:38:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:06.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Configuration\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Configuration\\MovieConfiguration.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Configuration\\MovieConfiguration.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Configuration\\MovieConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:43:56.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Models\\Review.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\Review.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Models\\Review.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:37:46.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Models\\Movie.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Models\\Movie.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T17:37:33.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieLibraryDbContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\MovieLibraryDbContext.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\MovieLibraryDbContext.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\MovieLibraryDbContext.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\MovieLibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:53:46.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:04:08.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Models\\User.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Models\\User.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:40:04.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieEntity.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\MovieEntity.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Entities\\MovieEntity.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\MovieEntity.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Entities\\MovieEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:39:53.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReviewEntity.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\ReviewEntity.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Entities\\ReviewEntity.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Entities\\ReviewEntity.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Entities\\ReviewEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:39:45.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MovieLibrary.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T14:38:21.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "MovieLibrary.Core\\Abstractions\\IPasswordHasher.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0441\u0442\u043E \u0441\u043A\u0440\u0438\u043F\u0442\u044B\\Movie Library\\MovieLibrary.Core\\Abstractions\\IPasswordHasher.cs",
+              "RelativeToolTip": "MovieLibrary.Core\\Abstractions\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T13:38:24.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

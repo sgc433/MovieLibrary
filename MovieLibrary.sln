@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary", "MovieLibrary\MovieLibrary.csproj", "{47532DC9-0ED0-47FE-9175-6E1327D07593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary.DataAccess", "MovieLibrary.DataAccess\MovieLibrary.DataAccess.csproj", "{1D7A6B84-C2EF-4115-8116-3EB2C453B426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary.Core", "MovieLibrary.Core\MovieLibrary.Core.csproj", "{81173676-D2A5-4F63-98C1-ACC29E12B45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary.Application", "MovieLibrary.Application\MovieLibrary.Application.csproj", "{C43111A4-0FC2-4AEE-810B-63EC35074651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary.Infrastructure", "MovieLibrary.Infrastructure\MovieLibrary.Infrastructure.csproj", "{F2823ED1-320C-4735-9585-B8A0A636F41B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3BEEEFA-E025-49E4-8BDE-674AB71B5808}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47532DC9-0ED0-47FE-9175-6E1327D07593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47532DC9-0ED0-47FE-9175-6E1327D07593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47532DC9-0ED0-47FE-9175-6E1327D07593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47532DC9-0ED0-47FE-9175-6E1327D07593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7A6B84-C2EF-4115-8116-3EB2C453B426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7A6B84-C2EF-4115-8116-3EB2C453B426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7A6B84-C2EF-4115-8116-3EB2C453B426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7A6B84-C2EF-4115-8116-3EB2C453B426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81173676-D2A5-4F63-98C1-ACC29E12B45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81173676-D2A5-4F63-98C1-ACC29E12B45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81173676-D2A5-4F63-98C1-ACC29E12B45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81173676-D2A5-4F63-98C1-ACC29E12B45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43111A4-0FC2-4AEE-810B-63EC35074651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43111A4-0FC2-4AEE-810B-63EC35074651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43111A4-0FC2-4AEE-810B-63EC35074651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43111A4-0FC2-4AEE-810B-63EC35074651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2823ED1-320C-4735-9585-B8A0A636F41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2823ED1-320C-4735-9585-B8A0A636F41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2823ED1-320C-4735-9585-B8A0A636F41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2823ED1-320C-4735-9585-B8A0A636F41B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
