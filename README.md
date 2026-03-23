@@ -41,12 +41,15 @@ docker-compose up -d
 
 **Пример запроса для получения списка фильмов:**
 
+```http
 GET /api/movies
 Host: localhost:5281
 Authorization: Bearer <ваш_jwt_токен>
+```
 
 **Регистрация нового пользователя:**
 
+```http
 POST /api/User/register
 Content-Type: application/json
 
@@ -54,9 +57,11 @@ Content-Type: application/json
   "email": "user@example.com",
   "password": "securePassword123"
 }
+```
 
 **Добавление отзыва к фильму:**
 
+```http
 POST /api/Review
 Content-Type: application/json
 Authorization: Bearer <ваш_jwt_токен>
@@ -67,6 +72,7 @@ Authorization: Bearer <ваш_jwt_токен>
   "comment": "Good film!",
   "dateAdded": "2026-03-23T16:41:35.051Z"
 }
+```
 
 ## Разработка
 
@@ -79,12 +85,15 @@ Authorization: Bearer <ваш_jwt_токен>
 
 ### Установка зависимостей
 
+```bash
 Восстановите NuGet-пакеты:
 
 dotnet restore
+```
 
 ### Настройка базы данных
 
+```json
 Обновите строку подключения в `MovieLibrary/appsettings.json`:
 
 {
@@ -92,10 +101,13 @@ dotnet restore
     "DefaultConnection": "Host=localhost;Database=MovieLibraryDb;Username=postgres;Password=yourpassword"
   }
 }
+```
 
 ### Применение миграций
 
+```bash
 dotnet ef database update --project MovieLibrary.DataAccess --startup-project MovieLibrary
+```
 
 ## Deploy и CI/CD
 
@@ -103,11 +115,15 @@ dotnet ef database update --project MovieLibrary.DataAccess --startup-project Mo
 
 **Docker образ:**
 
+```bash
 docker build -t movielibrary .
+```
 
 **Запуск с Docker Compose:**
 
+```bash
 docker-compose up -d
+```
 
 **Планируемый CI/CD пайплайн (GitHub Actions):**
 - Автоматическая сборка при пуше в main
